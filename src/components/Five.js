@@ -6,8 +6,8 @@ const Five = props => (
     <Fade duration={2500}>
       <div className="container">
         <header>
-          <h2>Magna faucibus lorem diam</h2>
-          <p>Ante metus praesent faucibus ante integer id accumsan eleifend</p>
+          <h2>Contact me over here:</h2>
+          <p>Enter your email address to begin your journey!</p>
         </header>
         <form method="post" action="#" className="cta">
           <div className="row gtr-uniform gtr-50">

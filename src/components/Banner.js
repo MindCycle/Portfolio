@@ -5,12 +5,13 @@ import { Link as ScrollLink } from 'react-scroll'
 const Banner = props => (
   <section id="banner">
     <div className="content">
+      
       <header>
-        <h2>The future has landed</h2>
+        <h2>Your mind is limitless</h2>
         <p>
-          And there are no hoverboards or flying cars.
+          Like your vision, we look to the future.
           <br />
-          Just apps. Lots of mother flipping apps.
+          A future with apps and automation. An Autonomous Future.
         </p>
       </header>
       <span className="image">

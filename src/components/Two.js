@@ -15,7 +15,7 @@ const Two = props => (
     <Fade right big>
       <div className="content">
         <header>
-          <h2>Interdum amet non magna accumsan</h2>
+          <h2>Audio and Music</h2>
           <p>Nunc commodo accumsan eget id nisi eu col volutpat magna</p>
         </header>
         <p>

@@ -15,7 +15,7 @@ const Three = props => (
     <Fade left big>
       <div className="content">
         <header>
-          <h2>Interdum felis blandit praesent sed augue</h2>
+          <h2>Past Projects</h2>
           <p>Accumsan integer ultricies aliquam vel massa sapien phasellus</p>
         </header>
         <p>
